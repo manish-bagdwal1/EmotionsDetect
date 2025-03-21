@@ -19,7 +19,7 @@ This is a muli-classification problem where given a text, we have to predict if 
 Link: https://github.com/manish-bagdwal1/EmotionsDetect/tree/main/Data <br>
 <br>
 <b> Evaluation Metrics </b>
-Since, the dataset is perfectly balanced accuracy was considered as the main evaluation metric.
+Since, the dataset is perfectly balanced the accuracy was considered as the main evaluation metric.
 <ul>
   <li> Accuracy </li>
   <li> Precision </li>
