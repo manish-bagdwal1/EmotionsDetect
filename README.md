@@ -27,7 +27,7 @@ Since, the dataset is perfectly balanced the accuracy was considered as the main
   <li> F1 Score </li>
 </ul>
 
-<b> Web Application Demo: </b> https://nlpemotions.herokuapp.com/
+<b> Web Application Demo(may not work now due to older version causing dependency issue): </b> https://nlpemotions.herokuapp.com/
 
 
 
